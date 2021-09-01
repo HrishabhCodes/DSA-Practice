@@ -1,12 +1,12 @@
 # DSA-Bootcamp-Java
 
-- [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
+- [Subscribe to Kunal's channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Syllabus](SYLLABUS.md)
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 
-### Connect with me
+### Connect with Kunal
   <a href="https://twitter.com/kunalstwt">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
