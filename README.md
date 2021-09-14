@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
-### Connect with Me
+### Connect with Hrishabh
 
   <a href="https://twitter.com/hrishabhj5">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
