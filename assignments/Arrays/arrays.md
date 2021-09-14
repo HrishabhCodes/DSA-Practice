@@ -2,6 +2,8 @@
 
 ## Submit the following on your Leetcode profile itself.
 
+## Questions given by Kunal
+
 ### Easy
 
 - [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
@@ -41,3 +43,13 @@
 
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 - [ ] [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+## Questions added by Hrishabh
+
+### Easy
+
+### Medium
+
+- [x] [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
+
+### Hard
