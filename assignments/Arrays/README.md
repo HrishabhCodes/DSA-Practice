@@ -19,7 +19,7 @@
 - [ ] [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-- [ ] [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+- [x] [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 - [x] [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
