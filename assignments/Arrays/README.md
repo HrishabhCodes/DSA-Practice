@@ -10,7 +10,7 @@
 - [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-- [ ] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [ ] [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [x] [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [x] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
