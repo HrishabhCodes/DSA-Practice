@@ -26,23 +26,32 @@
 - [ ] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [ ] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 - [ ] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-- [ ] [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+- [x] [Lucky Numbers In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- [ ] [Plus One](https://leetcode.com/problems/plus-one/)
+- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Medium
 
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [ ] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+- [ ] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
 
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 - [ ] [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
 
 ## Questions added by Hrishabh
 
