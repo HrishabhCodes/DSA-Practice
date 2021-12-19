@@ -30,8 +30,8 @@
 - [x] 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [x] 23. [Lucky Numbers In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - [ ] 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-- [ ] 26. [Plus One](https://leetcode.com/problems/plus-one/)
+- [x] 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- [x] 26. [Plus One](https://leetcode.com/problems/plus-one/)
 - [ ] 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Medium
