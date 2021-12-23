@@ -45,12 +45,12 @@
 - [x] 34. [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] 35. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [x] 36. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] 37. [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] 37. [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
 
 - [ ] 38. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [ ] 39. [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [ ] 39. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] 40. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
 
 ## Questions added by Hrishabh
