@@ -50,7 +50,7 @@
 ### Hard
 
 - [ ] 38. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [ ] 39. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] 39. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] 40. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
 
 ## Questions added by Hrishabh
