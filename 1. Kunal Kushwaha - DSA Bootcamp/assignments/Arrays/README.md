@@ -32,7 +32,7 @@
 - [x] 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - [x] 26. [Plus One](https://leetcode.com/problems/plus-one/)
-- [ ] 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Medium
 
