@@ -3,12 +3,13 @@
 - [x] [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [x] [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [ ] [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
+- [ ] [Binary Search in 2-D Array](https://www.youtube.com/watch?v=enI_KyGLYPo)
 
 # Problems:
 
 ## Easy
 
-- [ ] [Square Root](https://leetcode.com/problems/sqrtx/)
+- [x] [Square Root](https://leetcode.com/problems/sqrtx/)
 - [ ] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
