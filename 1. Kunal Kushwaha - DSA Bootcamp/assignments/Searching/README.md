@@ -10,8 +10,8 @@
 ## Easy
 
 - [x] 1. [Square Root](https://leetcode.com/problems/sqrtx/)
-- [ ] 2. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [ ] 3. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] 2. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [x] 3. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] 4. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [ ] 5. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [ ] 6. [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
