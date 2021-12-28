@@ -38,7 +38,7 @@
 
 - [x] 28. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] 29. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-- [ ] 30. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+- [x] 30. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 - [x] 31. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] 32. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] 33. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
