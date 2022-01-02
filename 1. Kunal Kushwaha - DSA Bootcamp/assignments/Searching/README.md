@@ -21,11 +21,11 @@
 - [x] 10. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x] 11. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [x] 12. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [ ] 13. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [ ] 14. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [ ] 15. [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [x] 13. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [x] 14. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+- [x] 15. [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [ ] 16. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [ ] 17. [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] 17. [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 
