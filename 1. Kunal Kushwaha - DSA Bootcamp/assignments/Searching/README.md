@@ -24,12 +24,12 @@
 - [x] 13. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] 14. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [x] 15. [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-- [ ] 16. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- [x] 16. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [x] 17. [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 
-- [ ] 18. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] 18. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] 19. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [ ] 20. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] 21. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
