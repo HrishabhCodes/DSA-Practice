@@ -33,7 +33,7 @@
 - [x] 19. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [x] 20. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] 21. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [ ] 22. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] 22. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] 23. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [ ] 24. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [ ] 25. [Reach a Number](https://leetcode.com/problems/reach-a-number/)
