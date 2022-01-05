@@ -32,7 +32,7 @@
 - [x] 18. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] 19. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [x] 20. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] 21. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [x] 21. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [x] 22. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] 23. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [ ] 24. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
