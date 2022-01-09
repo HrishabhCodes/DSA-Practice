@@ -39,7 +39,7 @@
 - [x] 25. [Reach a Number](https://leetcode.com/problems/reach-a-number/)
 - [x] 26. [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - [x] 27. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- [ ] 28. [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+- [x] 28. [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [x] 29. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] 30. [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [ ] 31. [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
