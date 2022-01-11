@@ -42,7 +42,7 @@
 - [x] 28. [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [x] 29. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] 30. [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
-- [ ] 31. [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [x] 31. [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [ ] 32. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ## Hard
