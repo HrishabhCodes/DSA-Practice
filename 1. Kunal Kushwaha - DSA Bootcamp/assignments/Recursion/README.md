@@ -18,7 +18,7 @@
 - [ ] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
 - [ ] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
 - [ ] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [ ] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+- [x] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
 - [x] [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [x] [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - [x] [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
