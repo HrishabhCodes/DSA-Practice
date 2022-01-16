@@ -33,6 +33,7 @@
 - [ ] [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
 - [ ] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
 - [x] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+- [x] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 
 ## Medium
 
