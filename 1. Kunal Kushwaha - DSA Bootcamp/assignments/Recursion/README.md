@@ -1,28 +1,28 @@
 # Videos
 
-- [ ] [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
-- [ ] [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
+- [x] [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
+- [x] [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
 
 # Problems
 
 ## Easy
 
-- [ ] [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
-- [ ] [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
-- [x] [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
-- [x] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
-- [ ] [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
-- [ ] [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
-- [ ] [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [ ] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [ ] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [ ] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [x] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [x] [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [x] [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [x] [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
-- [ ] Write a recursive function for given n and a to determine x:
+- [x] 1. [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
+- [x] 2. [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
+- [x] 3. [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
+- [x] 4. [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
+- [x] 5. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [ ] 6. [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [ ] 7. [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
+- [ ] 8. [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
+- [ ] 9. [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
+- [ ] 10. [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
+- [ ] 11. [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+- [x] 12. [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+- [x] 13. [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
+- [x] 14. [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
+- [x] 15. [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [ ] 16. Write a recursive function for given n and a to determine x:
 
 ```java
       n = a ^ x
@@ -30,10 +30,10 @@
       (2 ^ -31) <= n <= (2 ^ 31) - 1
 ```
 
-- [ ] [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- [ ] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- [x] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
-- [x] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+- [ ] 17. [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+- [ ] 18. [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
+- [x] 19. [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+- [x] 20. [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 
 ## Medium
 
