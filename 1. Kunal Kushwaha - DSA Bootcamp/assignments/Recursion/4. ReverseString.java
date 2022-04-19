@@ -4,27 +4,37 @@ import java.util.Arrays;
 
 public class ReverseString {
     public static void main(String[] args) {
-        char[] s = {'H', 'a', 'n', 'n', 'a'};
-        reverse(s);
-        System.out.println(Arrays.toString(s));
+        char[] arr = {'h', 'e', 'l', 'l', 'o' };
+        reverseString2(arr);
     }
 
-    static void reverse(char[] s) {
-        helper(s, 0);
+//    Recursion:
+
+    private static void reverseString1(char[] arr) {
+        helper(arr, 0, arr.length - 1);
     }
 
-    static void helper(char[] s, int i) {
-        if (i == s.length / 2) {
+    private static void helper(char[] arr, int i, int j) {
+        if (i >= j) {
             return;
         }
-        swap(s, i, s.length - 1 - i);
-        helper(s, i + 1);
+        swap(arr, i, j);
+        helper(arr, i + 1, j - 1);
     }
 
-    private static void swap(char[] s, int i, int j) {
-        char temp = s[i];
-        s[i] = s[j];
-        s[j] = temp;
+    private static void swap(char[] arr, int i, int j) {
+        char temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 
+//    Iteration:
+
+    public static void reverseString2(char[] arr) {
+        for (int i = 0, j = arr.length - 1; i <= j; i++, j--) {
+            char temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+        }
+    }
 }

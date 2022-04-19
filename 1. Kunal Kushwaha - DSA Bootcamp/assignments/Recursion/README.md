@@ -12,7 +12,7 @@
 - [x] 3. [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [x] 4. [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
 - [x] 5. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
-- [ ] 6. [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [x] 6. [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
 - [ ] 7. [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
 - [ ] 8. [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
 - [ ] 9. [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
